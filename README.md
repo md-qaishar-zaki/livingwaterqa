@@ -1,4 +1,4 @@
-# LivingWaterQA.com
+# LivingWaterqa.com
 
 LivingWaterQA.com is a comprehensive website designed to showcase the extensive range of services, products, and achievements of Living Water QA. Leveraging modern web technologies, this website provides a seamless user experience while presenting the company’s profile, client testimonials, and portfolio of completed projects.
 
