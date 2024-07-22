@@ -10,7 +10,7 @@
     <div class="col-lg-12">
           <div class="section-heading text-center">
             <h2>About</h2>
-          </div>
+          </div> 
         </div>
         <div class="col-md-12">
             <div class="about-pg">
